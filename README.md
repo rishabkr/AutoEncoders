@@ -3,4 +3,4 @@ A PyTorch Implementation and experimentation of Variational AutoEncoders with in
 
 
 If notebook doesn't open on github paste the notebook <a href = "https://github.com/rishabkr/Variational-AutoEncoders/blob/main/Variational%20AutoEncoders/Variational-AutoEncoder%20(PyTorch).ipynb" > link </a>
-to nb-viewer site <a href="https://nbviewer.jupyter.org/"> Jupyter-nbviwer </a>.
+to nb-viewer site <a href="https://nbviewer.jupyter.org/"> Jupyter-Notebook-Viewer </a>.
